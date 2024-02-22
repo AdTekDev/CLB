@@ -1,6 +1,11 @@
 
 # Hướng dẫn Đề Án - CLB AI
 
+## 2024.02.22
+- "Đánh giá tiến độ" giữa Kế hoạch và Thực tế
+- 3 câu hỏi: đã làm gì, tuần này làm gì, vấn đề khó khăn ?
+- Trình bày kết quả đã đạt cho các nhóm khác phản biện
+  
 
 ## 2024.01.25
 Các nhóm chi tiết hóa việc thực hiện đề án

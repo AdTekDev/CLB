@@ -1,6 +1,10 @@
 
 # Hướng dẫn Đề Án - CLB AI
 
+## 2024.02.29
+- demo kết quả lần 1
+- góp ý hiệu chỉnh
+
 ## 2024.02.22
 - "Đánh giá tiến độ" giữa Kế hoạch và Thực tế
 - 3 câu hỏi: đã làm gì, tuần này làm gì, vấn đề khó khăn ?

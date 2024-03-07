@@ -1,6 +1,9 @@
 
 # Hướng dẫn Đề Án - CLB AI
 
+## 2024.03.07
+- đánh giá sơ bộ lần 1
+
 ## 2024.02.29
 - demo kết quả lần 1
 - góp ý hiệu chỉnh

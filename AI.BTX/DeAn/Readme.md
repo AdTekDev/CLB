@@ -1,6 +1,9 @@
 
 # Hướng dẫn Đề Án - CLB AI
 
+## 2024.03.14
+- đánh giá sơ bộ lần 1 (tt)
+
 ## 2024.03.07
 - đánh giá sơ bộ lần 1
 

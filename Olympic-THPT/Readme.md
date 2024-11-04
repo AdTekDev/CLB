@@ -20,7 +20,7 @@
 
 ### Trực tuyến
 - Repl.it
-- Colab google - https://colab.google/
+- Colab google - https://colab.research.google.com/ 
 
 ### Cài đặt trên máy (cài 1)
 

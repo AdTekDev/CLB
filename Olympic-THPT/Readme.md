@@ -29,14 +29,19 @@
 - Dev-C++ - https://www.bloodshed.net/ 
 - Eclipse IDE for C/C++ - https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-cc-developers 
 
+
+## Contests
+- https://oj.vnoi.info/contest/
+- https://hnoj.edu.vn/contests/
+- https://icpc.global/worldfinals/past-problems 
+
+## Học tập
+- LeetCode:  https://leetcode.com/studyplan/top-interview-150/ 
+- codelearn:  https://codelearn.io/training
+
 ## Tham khảo
 W3 Schools  
 - https://www.w3schools.com/cpp/ 
 - https://www.w3schools.com/python/ 
-
-LeetCode   
-- https://leetcode.com/studyplan/top-interview-150/ 
-
-
 
 

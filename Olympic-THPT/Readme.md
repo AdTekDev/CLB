@@ -44,4 +44,5 @@ W3 Schools
 - https://www.w3schools.com/cpp/ 
 - https://www.w3schools.com/python/ 
 
-
+## Tài liệu
+- https://drive.google.com/drive/folders/1zV1tA_7F7aW_rK-2EXEEXiqmtJAXhiY9?usp=sharing
